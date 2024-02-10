@@ -1,2 +1,2 @@
 date
-echo $date
+echo "todays date is"
